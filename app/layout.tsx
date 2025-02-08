@@ -34,7 +34,7 @@ export const metadata = {
     }]
   },
   alternates: {
-    canonical: 'https://your-vercel-url.vercel.app',
+    canonical: 'https://webappunitsconverter-liart.vercel.app',
   },
   robots: {
     index: true,
@@ -53,10 +53,6 @@ export const metadata = {
   language: 'pt-BR',
   authors: [{ name: 'Seu Nome' }],
   category: 'Ferramentas de Conversão',
-  other: {
-    'google-site-verification': 'adicione_seu_código_do_google_search_console', // Você pode adicionar depois
-    'msvalidate.01': 'adicione_seu_código_do_bing', // Se quiser adicionar depois
-  }
 }
 
 export default function RootLayout({
