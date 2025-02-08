@@ -48,7 +48,7 @@ export const metadata = {
     },
   },
   verification: {
-    google: 'adicione_seu_código_do_google_search_console', // Você pode adicionar depois
+    google: 'J1Yow-TlUK5Px0kEbyck3F7TB7ieRaixWP8KyclYqOw',
   },
   language: 'pt-BR',
   authors: [{ name: 'Seu Nome' }],
